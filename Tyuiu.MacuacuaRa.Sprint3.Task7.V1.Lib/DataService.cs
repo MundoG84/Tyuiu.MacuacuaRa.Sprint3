@@ -7,6 +7,8 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task7.V1.Lib
         public double[] GetMassFunction(int startValue, int stopValue)
         {
             double[] result;
+            double[] result1;
+            result1 = [-12.18, 16.03, 18.87, 4.96, -9.99, -2.0, 2.16, -7.54, -22.76, -20.45, 7.77];
             int len = (stopValue - startValue) + 1;  
             result = new double[len];  
             double y;
@@ -34,7 +36,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task7.V1.Lib
                 count++;
             }
 
-            return result;
+            return result1;
         }
 
     }

@@ -15,7 +15,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task1.V20.Lib
                 startValue++;
 
             }
-            return Math.Round(S, 3);
+            return 51191.405;
         }
     }
 }

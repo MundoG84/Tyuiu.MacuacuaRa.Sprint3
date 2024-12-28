@@ -18,7 +18,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task5.V28.Lib
 
             }
 
-            return result;
+            return Math.Round(result,3);
         }
     }
 }

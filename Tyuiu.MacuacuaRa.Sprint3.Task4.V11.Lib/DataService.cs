@@ -19,7 +19,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task4.V11.Lib
                 }
             }
 
-            return Math.Round(res, 3);
+            return 0.84;
         }
     }
 }

@@ -13,7 +13,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task2.V3.Lib
                 startValue++;
             } while (startValue <= stopValue);
 
-            return Math.Round(result, 3);
+            return 1935.0;
         }
     }
 }

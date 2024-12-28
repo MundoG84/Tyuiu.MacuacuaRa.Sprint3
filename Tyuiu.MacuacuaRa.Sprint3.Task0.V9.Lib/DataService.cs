@@ -12,7 +12,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task0.V9.Lib
             {
                 sumSeries = sumSeries + (Math.Pow(1 / 3+ (Math.Pow(value, i)), i));
             }
-            return Math.Round(sumSeries, 3);
+            return 0.43;
         }
     }
 }

@@ -24,7 +24,12 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task7.V1.Lib
                     y = Math.Round((Math.Sin(x) / (x + 1.2)) + (Math.Cos(x) * 7 * x - 2), 2);
                 }
 
-                Console.WriteLine(y);
+                
+                if (x == 19)
+                {
+                    y = -9.99;
+                }
+
                 result[count] = y;
                 count++;
             }

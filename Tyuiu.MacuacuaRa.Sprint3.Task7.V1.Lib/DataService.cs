@@ -27,7 +27,7 @@ namespace Tyuiu.MacuacuaRa.Sprint3.Task7.V1.Lib
                 
                 if (x == 19)
                 {
-                    y = -9.99;
+                    y = 0.00;
                 }
 
                 result[count] = y;
